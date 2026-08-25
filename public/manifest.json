@@ -1,0 +1,17 @@
+{
+  "name": "Generador de Reportes Fotográficos",
+  "short_name": "Reportes",
+  "description": "Generador de reportes de evidencias fotográficas en PDF imprimible.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#1d4ed8",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

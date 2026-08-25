@@ -1,0 +1,8 @@
+{
+  "name": "Generador de Reportes Fotográficos",
+  "description": "Aplicación sencilla y accesible para crear y descargar reportes mensuales de evidencias fotográficas en PDF imprimible.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
